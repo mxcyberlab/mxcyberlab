@@ -1,4 +1,4 @@
-# Hi, I'm [Maximo Homez] 👋
+# Hi, I'm Maximo Homez 👋
 
 Cybersecurity technician student based in Argentina, focused on **Blue Team**: threat detection, log analysis and incident response. I'm building a hands-on virtual lab and documenting everything I learn along the way.
 
@@ -22,5 +22,5 @@ Fully documented projects (objectives, steps, evidence and conclusions) will be 
 Grow as a Blue Team / SOC analyst while building a broad foundation in networking and security.
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/maximo-homez-14504a422/]
-- Email: [maxihomez09@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/maximo-homez-14504a422/
+- Email: maxihomez09@gmail.com
